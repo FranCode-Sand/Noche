@@ -1,0 +1,79 @@
+Body {
+   background-color:#000000e1 ; 
+   height: 1200px;   
+   width: auto; 
+}
+.lin{
+  font-family: "Arial", cursive;  
+  border-radius: 10px;
+  border-color: rgb(255, 255, 255);
+  border-width: 10px;
+  border-style: outset;
+  background-color:rgba(115, 105, 105, 0.9)  ;  
+}
+ .button{
+  background-color: #1f1f1f; /* Color de fondo */
+  border: none; /* Elimina el borde */
+  color: white; /* Color del texto */
+  padding: 10px 10px; /* Espaciado interior */
+  text-align: left; /* Centra el texto */
+  text-decoration:none; /* Elimina el subrayado del texto */
+  display: inline-block; /* Hace que el botón sea un bloque en línea */
+  font-size: 19px; /* Tamaño del texto */
+  border-radius: 10px; /* Borde redondeado */
+  transition: background-color 0.2s; /* Efecto de transición en el cambio de color de fondo */
+}
+
+/* Cambia el color de fondo cuando el ratón está sobre el botón */
+.button:hover {
+  background-color:rgba(115, 105, 105, 0.9); /* Nuevo color de fondo al pasar el ratón */
+}
+#a {
+  text-decoration: none; /* Elimina el subrayado */
+  color: burlywood; /* Cambia el color del enlace (puedes usar cualquier color que desees) */
+  cursor: pointer; /* Cambia el cursor al pasar por encima del enlace (opcional) */
+}
+
+/* Estilo para el enlace al pasar el cursor por encima (opcional) */
+#a:hover {
+  color: rgb(219, 149, 58); /* Cambia el color del enlace cuando se pasa el cursor sobre él */
+}
+#C{
+  border-radius: 8px;
+  border-color: rgb(100, 91, 91);
+  border-width: 8px;
+  border-style: outset;
+  background-color:rgba(100, 17, 17, 0.9) ; 
+}
+#card {
+  text-decoration: none;
+  color: aliceblue; 
+}
+#b{
+  color: aliceblue;
+  text-decoration: none;
+  cursor: pointer;
+}
+#b:hover{
+  color: beige;
+}
+#n{
+  color: aliceblue;
+  width: 15px; ;
+} 
+h1{
+  color: burlywood;
+}
+footer{
+   font-family: "Abril Fatface",cursive;
+   font-size: small;
+}
+.Im{
+  border-radius: 25px;
+  }
+ iframe{
+  width:800px;
+  height: 900px;
+  border-radius: 10px;
+  
+ }
