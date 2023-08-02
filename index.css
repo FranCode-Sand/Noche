@@ -70,8 +70,9 @@ h1{
   color: burlywood;
 }
 footer{
-   font-family: "Abril Fatface",cursive;
+   font-family: "Calibri",cursive;
    font-size: small;
+   color: white
 }
 .Im{
   border-radius: 25px;
