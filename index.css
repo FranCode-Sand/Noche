@@ -77,8 +77,8 @@ footer{
   border-radius: 25px;
   }
  iframe{
-  width:800px;
-  height: 900px;
-  border-radius: 10px;
+  width:100vw;
+  height: auto;
+  border-radius: 12px;
   
  }
