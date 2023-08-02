@@ -78,8 +78,8 @@ footer{
   border-radius: 25px;
   }
  iframe{
-  width:850px;
-  height: auto;
+  width:100vw;
+  height: 850px;
   border-radius: 10px;
   
  }
