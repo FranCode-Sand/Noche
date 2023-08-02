@@ -3,6 +3,11 @@ Body {
    height: 1200px;   
    width: auto; 
 }
+#title{
+  font-family: "Calibri", cursive;
+  font-size: 26px;
+  color: burlywood;
+  }
 .lin{
   font-family: "Arial", cursive;  
   border-radius: 10px;
